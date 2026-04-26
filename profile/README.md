@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" alt="OP" src="https://github.com/user-attachments/assets/92f597c4-d929-4610-895e-c240bacc718f" />
+  <img width="250" height="250" alt="OP" src="https://github.com/user-attachments/assets/92f597c4-d929-4610-895e-c240bacc718f" />
 </p>
 
 ## 👋 About us
