@@ -1,7 +1,7 @@
 <img width="250" height="250" alt="OP" src="https://github.com/user-attachments/assets/92f597c4-d929-4610-895e-c240bacc718f" />
 
 ## 👋 About us
-OverPowered is a completed, builded, automatic fivem framework.
+OverPowered is a completed, builded, automatic fivem framework.<br />
 Desired to build as much but going for les lag and more performence.
 
 ## 📚 Documentation
