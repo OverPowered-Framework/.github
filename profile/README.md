@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://imgur.com/a/overpowered-75bxGxJ">
+  <img width="612" height="240" src="https://nexla.dk/assets/files/img/brands/logo.png">
 </p>
 
 ## 👋 About us
