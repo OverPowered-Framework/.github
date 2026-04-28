@@ -13,8 +13,9 @@ https://docs.overpowered.org/
 
 ## 👉 Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j4JPYDP697)
-[![X](https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OPXFramework)
+[![X](https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/opxframework)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/OPXFramework)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/OPXFramework)
-[![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/OPXFramework)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/opxframework)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/opxframework)
+[![Instagram](https://img.shields.io/badge/Instagram-%23c13584.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/opxframework)
+[![TikTok](https://img.shields.io/badge/TikTok-black.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@opxframework)
